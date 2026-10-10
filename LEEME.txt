@@ -1,0 +1,18 @@
+CHIAPANESCITO - PAQUETE WEB
+
+Archivos incluidos:
+- index.html: página principal con botones de Productos Regionales y Archivo Fotográfico.
+- productos-regionales.html: catálogo independiente de productos regionales.
+- archivo-fotografico.html: galería independiente.
+- quienes-somos.html: página incluida en el paquete.
+- assets/: logotipo regional y archivos de imagen.
+
+PUBLICACIÓN EN GITHUB PAGES
+1. Descomprime este ZIP.
+2. Sube los archivos y la carpeta assets al mismo repositorio donde publicas tu sitio.
+3. Conserva tus fotos originales del pan y el archivo logo-chiapanescito.png en la raíz del repositorio; no los elimines ni los reemplaces si ya existen.
+4. Las imágenes dentro de assets que muestran rótulos son espacios visuales temporales. Sustitúyelas por las fotos reales conservando exactamente los nombres de archivo.
+5. El sitio usa el número de WhatsApp y el Meta Pixel presentes en la versión de index.html de este paquete.
+
+NOTA DE CONSERVACIÓN
+El index.html incluido es la versión ensamblada disponible en este trabajo, con los dos botones de navegación añadidos. Antes de sustituir tu index.html publicado, conserva una copia de seguridad del original.
